@@ -187,6 +187,24 @@ footer .social img{
     width: 40px;
     padding-top: 10px;
 }
+
+/* Reservations CSS */
+.img_res{
+    width: 100%;
+}
+.p_res{
+    color: black;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 1em;
+    padding-bottom: 15px;
+    text-align: center; 
+}
+.p_res a{
+    color: #6f7364;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 1em; 
+    text-decoration: none;
+}
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
